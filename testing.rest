@@ -1,14 +1,14 @@
 # # To Display Home Page/ Login or logout status
 # http://localhost:3000
 
-# # To Get all students
-# http://localhost:3000/students
+# # To Get all STUDENT
+# http://localhost:3000/STUDENT
 
 # To Get all users
 http://localhost:3000/user
 
-# To Get  Single students
-http://localhost:3000/students/65b3fd387b6b41b033b909cf
+# To Get  Single STUDENT
+http://localhost:3000/STUDENT/65b3fd387b6b41b033b909cf
 
 
 # To Get Single User
@@ -18,23 +18,23 @@ http://localhost:3000/user/65b4d906e870bbc5cbe79db8
 http://localhost:3000/api-docs
 
 # My Published link that display home page
-https://studentsrec24.onrender.com
+https://studentrecords2024.onrender.com
 
-
+studentrecords2024.onrender.com
 # My Published link to open swagger
-https://studentsrec24.onrender.com/api-docs
+https://studentrecords2024.onrender.com/api-docs
 
-# My Production link that returns all students
-https://studentsrec24.onrender.com/students
+# My Production link that returns all STUDENT
+https://studentrecords2024.onrender.com/STUDENT
 
 # My Production link that returns all user
-https://studentsrec24.onrender.com/user
+https://studentrecords2024.onrender.com/user
 
-# My Production link that returns students by Id
-https://studentsrec24.onrender.com/students/65b3fd387b6b41b033b909cf
+# My Production link that returns STUDENT by Id
+https://studentrecords2024.onrender.com/STUDENT
 
 # My Production link that returns user by Id
-https://studentsrec24.onrender.com/user/65b4d906e870bbc5cbe79db8
+https://studentrecords2024.onrender.com/user/
 
 # To login
  http://localhost:3000/login
@@ -43,7 +43,7 @@ https://studentsrec24.onrender.com/user/65b4d906e870bbc5cbe79db8
  http://localhost:3000/logout
 
 #  To login 
-https://studentsrec24.onrender.com/login
+https://studentrecords2024.onrender.com/login
 
 #  To login 
-https://studentsrec24.onrender.com/logout
+https://studentrecords2024.onrender.com/logout

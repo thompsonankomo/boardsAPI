@@ -1,0 +1,60 @@
+[
+  {
+      "firstName": "Grace",
+      "lastName": "Oshun",
+      "studentId": "E2024001",
+      "birthdate": "1990-05-12",
+      "major": "Accountant",
+      "department": "Engineering",
+      "gender": "Male",
+      "address": "5 Robert Mugabe Way, Gweru",
+      "studentStatus": "full-time"
+    }
+  ,
+  {
+   
+    "firstName": "John",
+    "lastName": "Sibanda",
+    "studentId": "E2024006",
+    "birthdate": "1990-05-12",
+    "major": "Teacher",
+    "department": "Education",
+    "gender": "female",
+    "address": "3 Tinubu Rd , Bulawayo",
+    "studentStatus": "full-time"
+    },
+  {
+    "firstName": "Peter",
+    "lastName": "Nkomo",
+    "studentId": "S2024001",
+    "birthdate": "1990-05-12",
+    "major": "Doctor",
+    "department": "Medicine",
+    "gender":"Male" ,
+    "address": "5 Mahama Rd, Abuja",
+    "studentStatus": "Full-time"
+    },
+    {
+      "firstName": "Jimmy",
+      "lastName": "Carter",
+      "studentId": "B2024001",
+      "birthdate": "1990-05-12",
+      "major": "Visual Arts",
+      "department": "Arts and Theatre",
+      "gender": "female",
+      "address": "14 Connaught rd",
+      "studentStatus": "Part-time"
+    },
+    {
+      "firstName": "Jimmy",
+      "lastName": "Bosun",
+      "studentId": "Y2024001",
+      "birthdate": "1990-05-12",
+      "major": "Communication",
+      "department": "Arts",
+      "gender": "female",
+      "address": "5 Rava St, Harare",
+      "studentStatus": "Part-time"
+    }
+  ]
+  

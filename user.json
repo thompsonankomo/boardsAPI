@@ -1,0 +1,30 @@
+[
+  {
+    "studentId": "E2024001",
+    "firstName": "Brian",
+    "lastName": "Davis",
+    "email": "bdavis@gmail.com",
+    "password": "kitchen1235"
+  },
+  {
+    "studentId": "E2024002",
+    "firstName": "Jimmy",
+    "lastName": "Carter",
+    "email": "jCarter@test.com",
+    "password": "market12345"
+  },
+  {
+    "studentId": "E2024003",
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "email": "alice.johnson@example.com",
+    "password": "garden5678"
+  },
+  {
+    "studentId": "E2024004",
+    "firstName": "David",
+    "lastName": "Smith",
+    "email": "david.smith@example.com",
+    "password": "office9876"
+  }
+]
